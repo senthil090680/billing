@@ -1,0 +1,40 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+X-COMMENT: Main-Class will be added automatically by build
+Class-Path: 
+Created-By: 11.0-b15 (Sun Microsystems Inc.)
+Main-Class: jzebra.Main
+
+Name: jzebra/RawPrintApplet.class
+SHA1-Digest: 62Zm0eJpGCj+UKKLMnVMQYmg6Z8=
+
+Name: jzebra/PrintRaw$1.class
+SHA1-Digest: 1bnrCi1lZxs+eFNSjMaEwVHu0PU=
+
+Name: jzebra/Base64.class
+SHA1-Digest: 6QUlkF2Ie2ei7RDXsT9zogU2MFQ=
+
+Name: jzebra/Base64$OutputStream.class
+SHA1-Digest: QbEq6RtSnd3SGbHCnWPWunYiPvw=
+
+Name: jzebra/Base64$InputStream.class
+SHA1-Digest: oGXBASqATFjys2lbNy70a9H0oV4=
+
+Name: jzebra/LogIt.class
+SHA1-Digest: i2rkWuhm0L6PTdOsHEsX1ZZTkTk=
+
+Name: jzebra/exception/NullCommandException.class
+SHA1-Digest: g5ysq00Ra7TRQ7Yqn5Xpv/i20SM=
+
+Name: jzebra/exception/NullPrintServiceException.class
+SHA1-Digest: gAi681VqQpN9iY7EUFaYJC61AlE=
+
+Name: jzebra/PrintServiceMatcher.class
+SHA1-Digest: 4qsqFrclQND2oUzszBHBy7kEsNE=
+
+Name: jzebra/PrintRaw.class
+SHA1-Digest: LnZUWzFYyni9Kqdi7iMghqmSGXU=
+
+Name: jzebra/Main.class
+SHA1-Digest: 6GoykvO7fxyIt6BuEOzS0HgviuA=
+

@@ -1,0 +1,145 @@
+<style type="text/css">
+<!--
+.bodytext31 {FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #3b3b3c; FONT-FAMILY: Tahoma; text-decoration:none
+}
+.bodytext311 {FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #3b3b3c; FONT-FAMILY: Tahoma
+}
+-->
+</style>
+<script language="javascript">
+
+function escapekeypressed()
+{
+	//alert(event.keyCode);
+	if(event.keyCode=='27'){ window.close(); }
+}
+
+</script>
+<!--onLoad="window.print();"-->
+<body  onkeydown="escapekeypressed()">
+<table id="AutoNumber3" style="BORDER-COLLAPSE: collapse" 
+            bordercolor="#666666" cellspacing="0" cellpadding="4" width="871" 
+            align="left" border="1">
+  <tbody>
+    
+            <tr>
+              <td colspan="7" align="left" valign="center" bordercolor="#f3f3f3" bgcolor="#ffffff" class="bodytext31"><div align="center"><strong>Payment Pending  Report</strong></div></td>
+            </tr>
+            <tr>
+              <td colspan="7" align="left" valign="center" bordercolor="#f3f3f3" bgcolor="#ffffff" class="bodytext31"><div align="center"><strong>Five Star Computers Pvt Ltd</strong>&nbsp;</div></td>
+            </tr>
+            <tr>
+              <td colspan="7" align="left" valign="center" bordercolor="#f3f3f3" bgcolor="#ffffff" class="bodytext31"><div align="center"><strong></strong></div></td>
+            </tr>
+            <tr>
+              <td align="left" valign="center" bordercolor="#f3f3f3" 
+                bgcolor="#ffffff" class="bodytext31">&nbsp;</td>
+              <td align="left" valign="center" bordercolor="#f3f3f3" 
+                bgcolor="#ffffff" class="bodytext31">&nbsp;</td>
+              <td align="left" valign="center" bordercolor="#f3f3f3" 
+                bgcolor="#ffffff" class="bodytext31">&nbsp;</td>
+              <td align="left" valign="center" bordercolor="#f3f3f3" 
+                bgcolor="#ffffff" class="bodytext31">&nbsp;</td>
+              <td align="left" valign="center" bordercolor="#f3f3f3" 
+                bgcolor="#ffffff" class="bodytext31">&nbsp;</td>
+              <td align="left" valign="center" bordercolor="#f3f3f3" 
+                bgcolor="#ffffff" class="bodytext31">&nbsp;</td>
+              <td align="left" valign="center" bordercolor="#f3f3f3" 
+                bgcolor="#ffffff" class="bodytext31">&nbsp;</td>
+            </tr>
+            <tr>
+              <td width="7%" align="left" valign="center" bordercolor="#f3f3f3" 
+                bgcolor="#ffffff" class="bodytext31"><div align="left"><strong>No.</strong></div></td>
+              <td width="18%" align="left" valign="center" bordercolor="#f3f3f3" 
+                bgcolor="#ffffff" class="bodytext31"><div align="left"><strong> Supplier </strong></div></td>
+              <td width="16%" align="left" valign="center" bordercolor="#f3f3f3" 
+                bgcolor="#ffffff" class="bodytext31"><div align="left"><strong>Opening Balance </strong></div></td>
+              <td width="20%" align="left" valign="center" bordercolor="#f3f3f3" 
+                bgcolor="#ffffff" class="bodytext31"><div align="left"><strong>By Purchase </strong></div></td>
+              <td width="13%" align="left" valign="center" bordercolor="#f3f3f3" 
+                bgcolor="#ffffff" class="bodytext31"><div align="left"><strong>By Payments </strong></div></td>
+              <td width="14%" align="left" valign="center" bordercolor="#f3f3f3" 
+                bgcolor="#ffffff" class="bodytext31"><div align="left"><strong>By Adjustment </strong></div></td>
+              <td width="12%" align="left" valign="center" bordercolor="#f3f3f3" 
+                bgcolor="#ffffff" class="bodytext31"><div align="left"><strong>By Balance </strong></div></td>
+            </tr>
+			                <tr>
+                  <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div align="left">1</div></td>
+                  <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div class="bodytext311">APPLE PUBLISHING INTERNATIONAL (P) LTD</div></td>
+                  <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div align="right">0.00</div></td>
+                  <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div align="right">16,462.50</div></td>
+                  <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div align="right">500.00</div></td>
+                  <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div align="right">0.00</div></td>
+                  <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div align="right">15,962.50</div></td>
+                </tr>
+			                <tr>
+                  <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div align="left">2</div></td>
+                  <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div class="bodytext311">A C ENTERPRISES</div></td>
+                  <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div align="right">250.00</div></td>
+                  <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div align="right">1,149.95</div></td>
+                  <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div align="right">838.75</div></td>
+                  <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div align="right">0.00</div></td>
+                  <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div align="right">561.20</div></td>
+                </tr>
+			                <tr>
+                  <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div align="left">3</div></td>
+                  <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div class="bodytext311">A K ENGINEERS </div></td>
+                  <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div align="right">0.00</div></td>
+                  <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div align="right">13,662.25</div></td>
+                  <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div align="right">974.75</div></td>
+                  <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div align="right">0.00</div></td>
+                  <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div align="right">12,687.50</div></td>
+                </tr>
+			            <tr>
+              <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF">&nbsp;</td>
+              <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF">&nbsp;</td>
+              <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF">&nbsp;</td>
+              <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div align="right"><strong>
+                              </strong></div></td>
+              <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div align="right"><strong>
+                              </strong></div></td>
+              <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div align="right"><strong>
+                              </strong></div></td>
+              <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" 
+                bgcolor="#FFFFFF"><div align="right"><strong>29,211.20</strong></div></td>
+            </tr>
+            
+            <tr>
+              <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" bgcolor="#ffffff">&nbsp;</td>
+              <td align="left" valign="center" bordercolor="#f3f3f3" bgcolor="#ffffff" class="bodytext31">&nbsp;</td>
+              <td align="left" valign="center" bordercolor="#f3f3f3" bgcolor="#ffffff" class="bodytext31">&nbsp;</td>
+              <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" bgcolor="#ffffff">&nbsp;</td>
+              <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" bgcolor="#ffffff">&nbsp;</td>
+              <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" bgcolor="#ffffff">&nbsp;</td>
+              <td class="bodytext31" valign="center" bordercolor="#f3f3f3" align="left" bgcolor="#ffffff">&nbsp;</td>
+            </tr>
+  </tbody>
+</table>
+</body>

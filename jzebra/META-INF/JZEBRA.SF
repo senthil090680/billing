@@ -1,0 +1,38 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: IA9cliOaa3zh0vdRS7dejNsXHoQ=
+Created-By: 1.6.0_10 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: 76l2WMiNP86war31Mr65euuBEn0=
+
+Name: jzebra/RawPrintApplet.class
+SHA1-Digest: MO/yTVwBFNysA9ti9QGoFHlUMDI=
+
+Name: jzebra/Base64.class
+SHA1-Digest: OFTzDZjql7i3TJ+39l9bTWe+yMM=
+
+Name: jzebra/PrintRaw$1.class
+SHA1-Digest: Wa5oh3EEkYFyUIBXmQ9RQpKhIf0=
+
+Name: jzebra/Base64$InputStream.class
+SHA1-Digest: vHY40b7OuMcJpqEVU9/4XZzeuBg=
+
+Name: jzebra/Base64$OutputStream.class
+SHA1-Digest: uw34du5P92YtiRohTi3Uyjl+DIE=
+
+Name: jzebra/LogIt.class
+SHA1-Digest: eUZ43n28AhsSTsc0sua2fH9e7r8=
+
+Name: jzebra/exception/NullCommandException.class
+SHA1-Digest: XYnfO01kEfmvYGoiOHOQ9WZtpJc=
+
+Name: jzebra/PrintServiceMatcher.class
+SHA1-Digest: DmDPmEKzoHGfp8dyXthLOv1GZ7Y=
+
+Name: jzebra/exception/NullPrintServiceException.class
+SHA1-Digest: aE6vwO4IMsSbNLS3iFtDe42wil4=
+
+Name: jzebra/Main.class
+SHA1-Digest: PevGRpLO3gO2FvUcrdHa+1MlddM=
+
+Name: jzebra/PrintRaw.class
+SHA1-Digest: biegWm47eWVIqhpBsnT9kyE/uKQ=
+

@@ -1,0 +1,93 @@
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	background-color: #FFFFFF;
+}
+.bodytext3 {	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #3B3B3C; FONT-FAMILY: Tahoma; text-decoration:none
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.bodytext31 {FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #3b3b3c; FONT-FAMILY: Tahoma
+}
+.style1 {FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #3b3b3c; FONT-FAMILY: Tahoma; }
+-->
+</style>
+<table id="AutoNumber3" style="BORDER-COLLAPSE: collapse" 
+            bordercolor="#666666" cellspacing="0" cellpadding="4" width="934" 
+            align="left" border="0">
+  <tbody>
+    <tr>
+      <td width="3%" bgcolor="#FFFFFF" class="bodytext31">&nbsp;</td>
+      <td colspan="7" bgcolor="#FFFFFF" class="bodytext31"><div align="center"><strong>Tax Report - Purchase </strong></div></td>
+      <td width="7%" bgcolor="#FFFFFF" class="bodytext31">&nbsp;</td>
+    </tr>
+    <tr>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#FFFFFF"><strong>No.</strong></td>
+      <td width="5%"  align="left" valign="center" 
+                bgcolor="#FFFFFF" class="bodytext31"><div align="left"><strong>Bill No. </strong></div></td>
+      <td width="8%"  align="left" valign="center" 
+                bgcolor="#FFFFFF" class="bodytext31"><div align="left"><strong>Bill Date </strong></div></td>
+      <td width="12%"  align="left" valign="center" 
+                bgcolor="#FFFFFF" class="bodytext31"><strong> Supplier </strong></td>
+      <td width="8%"  align="left" valign="center" 
+                bgcolor="#FFFFFF" class="bodytext31"><div align="right"><strong>SubTotal</strong></div></td>
+            <td width="8%"  align="left" valign="center" 
+                bgcolor="#FFFFFF" class="bodytext31"><div align="right"><strong>Taxable Amont </strong></div></td>
+      <td width="7%"  align="left" valign="center" 
+                bgcolor="#FFFFFF" class="bodytext31"><div align="right"><strong>Tax 5.0000 %&nbsp;</strong></div></td>
+            <td width="7%"  align="left" valign="center" 
+                bgcolor="#FFFFFF" class="bodytext31"><div align="right"><strong>TaxTotal</strong></div></td>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#FFFFFF"><div align="right"><strong>Nett</strong></div></td>
+    </tr>
+        <tr >
+      <td  align="left" valign="center" bgcolor="#FFFFFF" class="bodytext31"></td>
+      <td  align="left" valign="center" bgcolor="#FFFFFF" class="bodytext31"><div align="left"> 2</div></td>
+      <td  align="left" valign="center" bgcolor="#FFFFFF" class="bodytext31"><div align="left">
+        11-MAR-2013      </div></td>
+      <td  align="left" valign="center" bgcolor="#FFFFFF" class="bodytext31"><div class="bodytext31"> APPLE PUBLISHING INTERNATIONAL (P) LTD</div></td>
+      <td  align="left" valign="center" bgcolor="#FFFFFF" class="bodytext31"><div align="right"> 4500.00&nbsp;</div></td>
+                  <td  align="left" valign="center" bgcolor="#FFFFFF" class="bodytext31"><div align="right">4500.00</div></td>
+      <td  align="left" valign="center" bgcolor="#FFFFFF" class="bodytext31"><div align="right"> 225.00&nbsp;</div></td>
+      <td  align="left" valign="center" bgcolor="#FFFFFF" class="bodytext31"><div align="right"> 4725.00&nbsp;</div></td>
+      <td  align="left" valign="center" bgcolor="#FFFFFF" class="bodytext31"><div align="right"> 4725.00&nbsp;</div></td>
+    </tr>
+        <tr >
+      <td  align="left" valign="center" bgcolor="#FFFFFF" class="bodytext31"></td>
+      <td  align="left" valign="center" bgcolor="#FFFFFF" class="bodytext31"><div align="left"> 1</div></td>
+      <td  align="left" valign="center" bgcolor="#FFFFFF" class="bodytext31"><div align="left">
+        19-FEB-2013      </div></td>
+      <td  align="left" valign="center" bgcolor="#FFFFFF" class="bodytext31"><div class="bodytext31"> APPLE PUBLISHING INTERNATIONAL (P) LTD</div></td>
+      <td  align="left" valign="center" bgcolor="#FFFFFF" class="bodytext31"><div align="right"> 1500.00&nbsp;</div></td>
+                  <td  align="left" valign="center" bgcolor="#FFFFFF" class="bodytext31"><div align="right">0.00</div></td>
+      <td  align="left" valign="center" bgcolor="#FFFFFF" class="bodytext31"><div align="right"> 75.00&nbsp;</div></td>
+      <td  align="left" valign="center" bgcolor="#FFFFFF" class="bodytext31"><div align="right"> 75.00&nbsp;</div></td>
+      <td  align="left" valign="center" bgcolor="#FFFFFF" class="bodytext31"><div align="right"> 1575.00&nbsp;</div></td>
+    </tr>
+        <tr>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#FFFFFF">&nbsp;</td>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#FFFFFF">&nbsp;</td>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#FFFFFF">&nbsp;</td>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#FFFFFF"><div align="right"><strong>Total : </strong></div></td>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#FFFFFF"><div align="right"><strong> 6000.00&nbsp;</strong></div></td>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#FFFFFF"><div align="right"><strong> 4500.00&nbsp;</strong></div></td>
+      <td class="bodytext31" valign="center"  align="left" 
+				bgcolor="#FFFFFF"><div align="right"><strong> 300.00&nbsp;</strong></div></td>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#FFFFFF"><div align="right"><strong> 4800.00&nbsp;</strong></div></td>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#FFFFFF"><div align="right"><strong> 6300.00&nbsp;</strong></div></td>
+    </tr>
+      </tbody>
+</table>

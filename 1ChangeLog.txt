@@ -1,0 +1,88 @@
+15Jan2013
+DB sales_tax - billdate - datetime - after billnumber column
+DB salesreturn_tax - billdate - datetime - after billnumber column.
+DB purchase_tax - billdate - datetime - after billnumber column.
+DB purhcasereturn_tax - billdate - datetime - after billnumber coumn.
+
+DB master_sales - subtotaldiscountamountonlyapply2 - decimal 2 to 6.
+DB master_salesreturn - subtotaldiscountamountonlyapply2 - decimal 2 to 6.
+DB master_purchase - subtotaldiscountamountonlyapply2 - decimal 2 to 6.
+DB master_purchasereturn - subtotaldiscountamountonlyapply2 - decimal 2 to 6.
+DB master_proformainvoice - subtotaldiscountamountonlyapply2 - decimal 2 to 6.
+DB master_purchaseorder - subtotaldiscountamountonlyapply2 - decimal 2 to 6.
+DB master_salesorder - subtotaldiscountamountonlyapply2 - decimal 2 to 6.
+
+16Jan2013
+Bug In EditListing Pages - Fixed All EditListing Pages. - DB No DB Change Done.
+
+18Jan2013
+Get Item Price Option Updated
+DB Add Values On master_settings_primaryvalues - companyanum companycode settingsname settingsvalue
+(For Two Companies - CPY00000001 CPY00000002)
+DB Add values On master_settings - companyanum companycode settingsname settingvalue
+
+22Jan2013
+Item Price Retrival From Previous Bills Done. - DB No DB Change Done.
+Sub Tax Reverse Calculation Bug Fixed. - DB No DB Change Done.
+
+Sales & Purchase Printout Column Hide Show Option Done.
+DB master_settings values update - To customer DB.
+
+23Jan2013
+LetterHead Printing Option Printout Title Header Mismatch Fixed. - No DB Change
+
+***********Automated Update Process Starts Here*********************
+
+Create master_updatesregistry table for applying updates.
+
+29Jan2013
+Phone Number Show On Sales Printout - DB - Additional Values On Settings Primary and Settings Master.
+Customer Supplier Edit Bug Fixed - No DB Change
+
+02Feb2013
+Show Amount In Words On Sales Printout - DB - Additional Values On Settings Primary and Settings Master.
+Tax Report Date Plus Bug Fixed. +1 Option Removed.
+
+Company Add & Edit Files Updated For CurrecnyDecimalName inclusion field.
+DB - Currency Decimal Point Name Field - currencydecimalname - varchar - after currencyname on master_company included.
+
+*******************************************************************************
+
+20Jun2013
+Date Formats changed to indian format in all reports. Unchanged in text box displays and date selection text boxes.
+Production related menu links are marked as deleted.
+Mainmenu dashboard links removed and company name by default is shown or logo will be shown.
+In reports, values only shown, zeros are hidden.
+Bill wise collection and payment closing is compulsory.
+Bill wise supplier payment report new.
+Collection Pending & Payment Pending Inline pending details on plus click.
+Tax Report Nett Payable By Bill Number With Print View & Excel Export Option
+Collection Ageing By Bill Number Report.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

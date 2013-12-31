@@ -1,0 +1,100 @@
+<style type="text/css">
+<!--
+.bodytext31 {FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #3b3b3c; FONT-FAMILY: Tahoma; text-decoration:none
+}
+-->
+</style>
+<script language="javascript">
+
+function escapekeypressed()
+{
+	//alert(event.keyCode);
+	if(event.keyCode=='27'){ window.close(); }
+}
+
+</script>
+<!--onLoad="window.print();"-->
+<body  onkeydown="escapekeypressed()">
+<table id="AutoNumber3" style="BORDER-COLLAPSE: collapse" 
+            bordercolor="#666666" cellspacing="0" cellpadding="4" width="1571" 
+            align="left" border="0">
+  <tbody>
+    <tr>
+      <td width="3%" bgcolor="#cccccc" class="bodytext31">&nbsp;</td>
+      <td bgcolor="#cccccc" class="bodytext31">&nbsp;</td>
+      <td bgcolor="#cccccc" class="bodytext31">&nbsp;</td>
+      <td bgcolor="#cccccc" class="bodytext31">&nbsp;</td>
+      <td bgcolor="#cccccc" class="bodytext31">&nbsp;</td>
+      <td bgcolor="#cccccc" class="bodytext31">&nbsp;</td>
+      <td bgcolor="#cccccc" class="bodytext31">&nbsp;</td>
+      <td bgcolor="#cccccc" class="bodytext31">&nbsp;</td>
+      <td bgcolor="#cccccc" class="bodytext31">&nbsp;</td>
+      <td bgcolor="#cccccc" class="bodytext31">&nbsp;</td>
+      <td bgcolor="#cccccc" class="bodytext31">&nbsp;</td>
+      <td bgcolor="#cccccc" class="bodytext31">&nbsp;</td>
+      <td width="9%" bgcolor="#cccccc" class="bodytext31">&nbsp;</td>
+      <td width="12%" bgcolor="#cccccc" class="bodytext31">&nbsp;</td>
+    </tr>
+    <tr>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#ffffff"><strong>No.</strong></td>
+      <td width="9%" align="left" valign="center"  
+                bgcolor="#ffffff" class="bodytext31"><div align="left"><strong>Date </strong></div></td>
+      <td width="13%" align="left" valign="center"  
+                bgcolor="#ffffff" class="bodytext31"><div align="left"><strong>Particulars </strong></div></td>
+      <td width="6%" align="left" valign="center"  
+                bgcolor="#ffffff" class="bodytext31"><div align="left"><strong>Paid Amount </strong></div></td>
+      <td width="5%" align="left" valign="center"  
+                bgcolor="#ffffff" class="bodytext31"><div align="left"><strong>Cash</strong></div></td>
+      <td width="5%" align="left" valign="center"  
+                bgcolor="#ffffff" class="bodytext31"><div align="left"><strong>Card</strong></div></td>
+      <td width="6%" align="left" valign="center"  
+                bgcolor="#ffffff" class="bodytext31"><div align="left"><strong>Online</strong></div></td>
+      <td width="5%" align="left" valign="center"  
+                bgcolor="#ffffff" class="bodytext31"><div align="left"><strong>Cheque</strong></div></td>
+      <td width="5%" align="left" valign="center"  
+                bgcolor="#ffffff" class="bodytext31"><div align="left"><strong>Adjustments</strong></div></td>
+      <td width="5%" align="left" valign="center"  
+                bgcolor="#ffffff" class="bodytext31"><div align="left"><strong>Mode </strong></div></td>
+      <td width="6%" align="left" valign="center"  
+                bgcolor="#ffffff" class="bodytext31"><div align="left"><strong>Cheque No. </strong></div></td>
+      <td width="8%" align="left" valign="center"  
+                bgcolor="#ffffff" class="bodytext31"><div align="left"><strong>Cheque Date </strong></div></td>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#ffffff"><div align="left"><strong>Bank Name </strong></div></td>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#ffffff"><div align="left"><strong>Remarks</strong></div></td>
+    </tr>
+        <tr>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#cccccc">&nbsp;</td>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#cccccc">&nbsp;</td>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#cccccc"><div align="right"><strong>Total </strong></div></td>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#cccccc"><div align="right"><strong>0.00</strong></div></td>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#cccccc"><div align="right"><strong>0.00</strong></div></td>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#cccccc"><div align="right"><strong>0.00</strong></div></td>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#cccccc"><div align="right"><strong>0.00</strong></div></td>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#cccccc"><div align="right"><strong>0.00</strong></div></td>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#cccccc"><div align="right"><strong>0.00</strong></div></td>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#cccccc">&nbsp;</td>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#cccccc">&nbsp;</td>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#cccccc">&nbsp;</td>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#cccccc">&nbsp;</td>
+      <td class="bodytext31" valign="center"  align="left" 
+                bgcolor="#cccccc">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+</body>
